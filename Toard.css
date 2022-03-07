@@ -1,9 +1,7 @@
 /* Toard.css - A simple, yet easy to use css. */
 /* https://github.com/Yonle/Toard.css */
 
-h1, h2, h3 ,h4 {
-  margin: 0;
-}
+
 
 pre {
   margin-top: 0;
@@ -25,7 +23,7 @@ pre {
 }
 
 .absolute {
-  position: fixed;
+  position: absolute;
 }
 
 .relative {
@@ -35,6 +33,10 @@ pre {
 .grid {
   display: grid;
   width: auto;
+}
+
+.flex {
+  display: flex;
 }
 
 .bottom {

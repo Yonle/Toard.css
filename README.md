@@ -9,7 +9,7 @@ Only some simple classes that you can remember them easily. The rest is **you** 
 - `absolute`, `relative`, `fixed`
 
 ### Design
-- `border`, `popup`
+- `border`, `popup`, `flex`
 
 ## Documentation
 See https://yonle.github.io/Toard.css for more documentation.
